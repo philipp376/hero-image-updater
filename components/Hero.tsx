@@ -3,7 +3,7 @@ import Image from "next/image";
 // The line below is rewritten by the "Hero Image Updater" n8n workflow on every
 // form upload. Keep it on one line and keep the @hero-image marker intact — the
 // workflow matches /^const HERO_IMAGE = "[^"]*"; \/\/ @hero-image$/m.
-const HERO_IMAGE = "/images/hero-20260901-214137-1525.jpg"; // @hero-image
+const HERO_IMAGE = "/images/hero-20260901-214353-1526.png"; // @hero-image
 
 export default function Hero() {
   return (
